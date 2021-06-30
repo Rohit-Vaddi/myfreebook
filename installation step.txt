@@ -1,0 +1,12 @@
+Step 1: Create a database name: "myfreebook"
+step 2: import "myfreebook.sql" file from database folder
+
+-+-+-++++++++++++++++++++++++++++++++++++++++++
+
+
+Admin Login
+
+front end login panel for both user admin
+
+Admin User: admin
+Admin Pass: admin123
